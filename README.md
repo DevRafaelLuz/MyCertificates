@@ -44,3 +44,6 @@ This repository has all my certificates organized by area of expertise.
 ## [Microsoft Learn](https://learn.microsoft.com/pt-br/)
 - Knowledge
   - Python
+  - TypeScript
+  - npm
+  - Node.js
