@@ -3,7 +3,7 @@
 This repository has all my certificates organized by area of expertise.
 
 ## [Bootcamp - GFT - Desenvolvimento Java com IA](https://web.dio.me/track/coding-future-gft-desenvolvimento-java-com-ia)
-- Knowledge
+- Skills
   - Java
   - Object-Oriented Programming
   - Spring Boot
@@ -14,14 +14,14 @@ This repository has all my certificates organized by area of expertise.
   - Artificial Intelligence
 
 ## [Bootcamp - Microsoft Copilot IA](https://web.dio.me/track/microsoft-copilot-ai)
-- Knowledge
+- Skills
   - Artificial Intelligence
   - GitHub Copilot
   - Generative AI
   - Microsoft Copilot
 
 ## [Bootcamp - XP Inc. - Full Stack Developer](https://web.dio.me/track/coding-the-future-xp-full-stack-developer)
-- Knowledge
+- Skills
   - .NET CORE
   - C#
   - Object-Oriented Programming
@@ -42,7 +42,7 @@ This repository has all my certificates organized by area of expertise.
   - Yarn
 
 ## [Microsoft Learn](https://learn.microsoft.com/pt-br/)
-- Knowledge
+- Skills
   - Python
   - TypeScript
   - npm
