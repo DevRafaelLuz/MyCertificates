@@ -47,3 +47,4 @@ This repository has all my certificates organized by area of expertise.
   - TypeScript
   - npm
   - Node.js
+  - Flask
