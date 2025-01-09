@@ -48,3 +48,4 @@ This repository has all my certificates organized by area of expertise.
   - npm
   - Node.js
   - Flask
+  - F#
