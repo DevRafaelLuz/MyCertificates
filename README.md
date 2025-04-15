@@ -58,3 +58,10 @@ This repository has all my certificates organized by area of expertise.
   - MySQL
   - AWS
   - VirtualBox
+ 
+## [Bootcamp - Suzano - Python Developer](https://web.dio.me/track/suzano-python-developer)
+- Skills
+  - Python
+  - OOP
+  - Azure AI
+  - Microsoft Copilot Studio  
